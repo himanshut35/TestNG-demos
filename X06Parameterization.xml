@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="my groups">
+  <test name = "groupoing">
+    <classes>
+      <class name="com.TestNGDemos.NGD11Parameterization">
+      </class>
+    </classes>
+    <parameters>
+      <parameter name="himanshu" value="student"></parameter>
+      <parameter name="tomar" value="Password123"></parameter>
+      <parameter name="himanshu1" value="Password123"></parameter>
+      <parameter name="tomar1" value="Password123"></parameter>
+      </parameters>
+  </test>
+ </suite>

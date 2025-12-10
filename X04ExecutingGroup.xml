@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="my groups">
+  <test name = "groupoing">
+    <classes>
+      <class name="com.TestNGDemos.NGd09GroupingTeststoRunSelectedTests">
+      </class>
+    </classes>
+    <groups>
+    <run>
+     <include name="Amazonsell"></include>
+    </run>
+   </groups>
+  </test>
+ </suite>

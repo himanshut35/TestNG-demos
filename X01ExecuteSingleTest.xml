@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="My suite">
+  <test name="My test">
+    <classes>
+      <class name="com.NGassignments.NGA01Amazon">
+        <methods>
+          
+          <include name="clicksell"></include>
+          <include name="bestsellers"></include>
+        </methods> 
+       </class>
+    </classes>
+  </test>
+</suite>
